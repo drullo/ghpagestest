@@ -1,14 +1,14 @@
 App is hosted at:
 
-** GitHub Pages **
+## GitHub Pages ##
 [https://drullo.github.io/ghpagestest/](https://drullo.github.io/ghpagestest/)
 
 or
 
-** Firebase **
+## Firebase ##
 [https://deploytest-5855b.firebaseapp.com](https://deploytest-5855b.firebaseapp.com)
 
 or
 
-** Heroku **
+## Heroku ##
 [https://rulloherokutest.herokuapp.com/](https://rulloherokutest.herokuapp.com/)
